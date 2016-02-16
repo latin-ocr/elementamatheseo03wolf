@@ -1,0 +1,109 @@
+300 ELEMENTA AsTRoNomAE. parsu.
+
+Tab. Trigon. ); erit etiam ut Tangens Semi-
+ῩῙῙῙ· redii ad Tangentem illius residui, ita
+feg76. Tangens semisummae angulorum quaefi-
+torum TRS <Sc RTS ad Tangentem se-
+midiffetentiae eorundem (§.40 Trigon.)⁸
+
+ξω.
+
+δοΗοιιοΝ.
+
+793. Exemplum mox dabimus in loco 2⁴³
+supputando , quo 69* praesens ess reliqua iPfi
+agnata Problemata illustrabuntur,
+
+LEMMAIV.
+
+794. Tangentes duorum angulorum
+fimt in ratione reciproca Catangentium
+eorundem.
+
+DEMoNsTRATIO.
+
+Sint duo anguli A ὅ( Β. Erit ut Tan-
+gens anguli A ad Sinum totum ‚ ita Si-
+nus totus ad Cotangentem anguli A 3 &
+fimiliter, ut Tangcns ai-guli Β ad Si-
+num totum, ita Snus totus ad Coran-
+gentem anguli BQ.104.Trig0n.8phaer.).
+(Quamobrems cum etiam stt ut Sinus to-
+tus ad Tangentem anguli Β, ita Coran-
+gens ejusdem anguli Β ad Sinum totum
+(§.173 Arithm.); erit ut Tangens an·
+guli A ad Tangentem anguii B, ita Co-
+tangens anguli B ad Cocangentem an-
+
+guli A (§. 198 Arithm.). Q e. d.
+
+PROBLEMA XXXVIII.
+
+Tab. 795. Datis angulis Inclinationis
+
+V111. RSP ‚ Elongaetionis STR ὠ Commuta-
+1'3'874· tionis ESR3 invenire Latitudinem
+¹¹· ¹· Planetae PTR.
+
+Resotnr1m
+Fiat .· Ut Sinus anguli elongationis
+RTS ad S?num anguli commutationis
+RSE vel Rsr , ita Cotangens Inclina-
+
+tliorngs RSP ad Cotangentem latitudinis
+
+Vel : ι ,
+Inferatur: ut Sinus anguli commu· 51³
+
+tationis RSE vel RST ad Sinum anguli V
+elongationis RTS‚ ita Tangens inclina· Fe}
+
+{Oi-³38] RSP ad Tangentem Latitudinis ¹²&
+
+DfiMoNstzATm.
+Ut SR ad TR‚ ita Cotangens RSP
+
+ad Cotangentem RT 1) (§.213 Optic.&
+’ §.178. Arithm. ). Est vero SR ad TR‚
+ut Sinus RTS ad Sinum RST (§.3 3 Tri-
+gon.) : ergo Sinus RTS ad Sinum RST,
+ut Cotangens RSP ad Cotangentem
+RTP < §. 167 Arith.). de erat unum.
+
+Est vero , ut Cotangens RSP ad Co-
+
+tangentem RTP ‚ ita Tangens ΚΠ) ad
+Tangentem RSP (§.794 ). Qare cum
+fit Sinus RTS ad Sinti-n RST ‚ ut Tan-
+gens RTP ad Tangentem RSP (ᾗ. 16⁴7
+Aritb.); erit etiam Sinus RST ad Sinum
+RT52 ut Tangens RSP az! Tangentem
+RTP (§.169Arith.). Qod erat alterum.
+
+Aliter.
+
+Ι. Qaeratur distantia Planetae ὲ Terra
+
+‘IR (§. 792) & distantia curtata
+SR ( ἓ. 789 ). ’
+
+2. Qioniam anguli RSP δέ RTP sunt
+
+exigui, fiat TR : RS=RSPs RTP,
+(ᾗ. 212 Optic. ).
+COROLLAMUM Ι.
+796. Datis angulis SRT ὃ( RTS, datur
+
+ratio distantiae Tertae ὲ Sole TS ad distan-
+tiam Planetae ab eodem RS (53 3.Trig0n.):,
+& hoc modo repertum ‚ pofita distantia
+
+Tetrae ὲ Sole 10, effe distantiam ἕ, ὲ Θ 4 ,
+δί 7, ὅ* 15224 52, ἢ 95 (αλ
+
+CO·¹
+
+(a) Gregorius Astron. Phys. δε Geom. Lib01.
+
+Ptol). Ι. f. 2..
+

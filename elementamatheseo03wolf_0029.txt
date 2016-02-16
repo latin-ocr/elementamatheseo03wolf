@@ -1,0 +1,97 @@
+rann.
+fig-17· rit major Opaca 1N‚- pars minor quam
+
+Cap.11.r DE LUCE. 15
+
+recia EF, ducanturque diametri ΑΒ &
+CD ad EF perpendiculares. Agantur
+praeterea per A δε C , itemque per
+B & D redite CA δε DB (§.20.Geom.).
+Quia CF & ΑΕ, itemque FD δε ΕΒ ad
+EF perpendiculares atque aequaleS, per
+hypotb. erunt AC & BD ipsi EF paral-
+lelae (§.226. Gema), consequenter an-
+guli ad A & C ‚ itemque ad B & Ι)
+recti (§.230‚ Geom.). Tangit adeo AC
+peripheriam AGB in A , peripheriam
+vero CHD in C, 8( BD illam in B,
+hanc vero in D tangit (§.304.Geom.).
+Sunt igitur A & B puncsta Sphaerae Lu-
+minosae extrema , quae in Opacam ra-
+diant, &C atque D pune‘ia Spaerae Opa-
+cae extrema, quae illuminantur (§.1 1 Ι).
+Qare cum ΑΕΒ <Sc CHD fint semicir-
+culi (§.135. Geom.) 3 Sphaera Lumino-
+sa dimidia dimidiam Opacae partem il-
+luminat. Qe. d.
+
+T H E ο R ε Μ A X 1.
+v 113. Si Sphaera Luminofit AB fue-
+
+dimidia Luminofie illuminat partem ma-
+jorem dimidia Opacae.
+
+DEMONSTRATto.
+
+Radius extremus CI utramque Sphae-
+ram tangit (§.111), adeoque ad semi-
+diametros CG & IM perpendicularis
+( §. 304. Ceam), consequenter GC δε
+MI sunt distantiae punCtorum G δε M ‚
+seu retitae GM ‚ a reeta CI (§. 225.
+Geom.). Quare cum IM < GC ‚ per
+
+’ hypoth. distantia rectae GM a recta CI
+
+continuo decrescit, adeoque Radius Lu·
+minis CI cum recsta GM centra Sphae-
+tarum Q δε M conjungente convergit
+
+(§.83.Geom.). Anguli igitur o & u sunt.
+retito minores (§.241. Geom.) conse-
+quenter IMK red'to major (§. 147.
+Geom.) Est ergo (ΣΕ quadrante minors
+IK quadrante major (§. 143.Geom.).
+Qare cum eodem modo demonstre-
+tur, esse DE quadrante minorem 2 ΚΝ
+veto quadrante majorem3 erit CED
+semicirculo minor , IKN semicirculo
+major; consequenter minor quam di-
+midia pars Sphaerae Luminosae majorem
+dimidia partem Sphaerae Opacae illumin
+nat. ᾖε. a'.
+
+THEOREMA XII.
+1 14. Si Sphaerae Luminostt ΙΝ fuerir
+
+minor Sphaera Opaca AB 3 pars major
+quam dimidia aninosae illuminat parf-a
+tem Opacae dimidia minorem.
+
+DEMONSTRAT10.·
+
+Eadem est, quae Theorematis praece-0,⁴
+dentis,
+
+PRoBLEMA III.
+
+1 1 ς. Datisfimidiametris Sphaerae Ltu-
+minose CG & Sphaerae Opacae IM una
+cum distantia centrarium GM,· invenire
+quantitatem partis illuminata parire&
+ac illuminantis.
+
+ResoLuTIO.
+
+Ducatur ΡΜ ipsi CI parallela. Quo-4
+niam MI δε CF ad CI perpendiculares
+(§.111. Optic. δε §.304 Geom.) ς erit:
+IM :CF (§.226r Sem), consequen·-
+ter PG differentia semidiametrorum CC}-
+& lM , quae ob has daras etiam daturfl
+Et quia IM etiam ad PM perp-endicula0
+ris (§.230.Geom.), erit IL quadrans
+
+(5443. Geom.) > adeoque LK excesigqg
+, pani
+

@@ -1,0 +1,115 @@
+Cap.V. DE THEORIA PLANETARUM SECUNDARIORUM, &a 515
+
+P R 0 B L E M A L.
+858. Invenire Variationem maxi-
+
+’ mam·
+
+R n s o L U τ 1 ό.
+
+Observetur Longitudo Lunae in Oc-
+tantibus (§.741.) & ad momentum
+observationis computetur locus Lunae
+bis aequatus: differentia inter compu-
+tatum & observatum est Variatio ma-
+xima (§·855- 857)· ’
+
+OssseuvArro LXII.
+
+859. TYCHO Variationem maximam
+observavit 40⁷ 3o'‘; KEPLERUS vero
+51' eandem statuit.
+
+PROBLEMA LI.
+
+860. Data elongatione Lunx a> Sole
+
+HAL3 invenire Variationem.
+R E s O ..L υ T 1 ο.
+
+Fiat: ut Sinus totus ad Sinum du·
+plae elongationis Lunae ἐ Sole, itaVaria-
+¹tio maxima ad Variationem quaesitam.
+
+E. gr. Sit elongatio >D εὶ Θ 420 55‘ 22⁰:
+-erit eius duplum 850 50' 44‘¹, quod vo-
+cetur A, adeoque pofita Variatione rna·
+xima 51¹.
+
+Log. Sin. tot. 100000000
+Log. Sin. A. 99988573
+Log. 51¹· 17075702
+
+μ’ --— ——n—-n--un———Q —-———--——=—— —-
+
+Log. Vatiat.
+Tabulis respondent ςοΙῑξΞ seu 50' 51¹1.
+S c H o L 1 0 N.
+
+861. Haec proportio ex collatione Obser-
+
+vationum eruta.
+DEFINITIO LV.
+
+862. Locus Lunae fidi‘us est locus
+·; ejus primo aequatus: locus prope verus
+ἐξ est locus bis aequatus: locus verus est
+⁴ locus ter aequatus.
+PRoBLEMA LH.
+863. Ad datum tempus locum Lami
+verum upputare. ’
+
+*17064275, cui iu ,
+
+ResoLurro.
+
+1. Qaeratur locus Lunae fietus eodem
+prorsus modo, quo locus Solis
+verus & planetarum Eccentricus
+in Orbita supputatur (§.720.), qui
+idern erit verus in Copulis (5822).
+
+2. Ad idem tempus supputetur locus
+Solis verus (§.720.)‚ & inde cons-
+tituatur Argumentum tam annuum ,
+quarn menstruum Longitudinis (§.
+846.)
+
+3. Qaerantur scrupula menstrua Lon-
+gitudinis (§. 848.) cum particula
+exsorte (§. 850.) δε inde porro
+AEquatio menstrua (§. 851.).
+
+4. Ope hujus locus Lunae fietus trans-
+mutetur in prope verum (§. 862).
+
+ς. Ab eo subtrahatur locus Solis ve·
+rm, ut habeatur elongatio Solis εὶ
+loco Lunae prope vero.
+
+6. Tandem beneficio hujus inveniatur
+Variatio (§. 8 70), loco Lunae pro-
+pe vero vel addenda, vel demen-
+da, ut verus obtineatur in Orbita
+(§-862 ): qui
+
+7. Eodem, quo supra, (§.78.) modo
+ad Eclipticam reducitur.
+
+SCHoLloN.
+
+864. Cum in antecedentibus singula prae-
+cepta jam Exemplo aliquo fuerint illustrata„
+fi quis ibi repertis uti voluerit, prodibit
+Exemplum calculi loci Lunae veri extra Sy-
+zylius (θ’ θόξιιαάνας quoad inaequalitatem
+menstruam & V ariationem fine Tabulis com-
+putati. Sed ad abbreviandum calculum saue
+taediosum, Kssprfinus Tabulam AEquationls
+luminis condidit, iu qua cum distantia So-
+lis ab Apogaeo Lunae (φ elongatione loci Lunae
+primo aequati AEquatio ex menstrua (φ’ Va-
+riatione compofita ‚una excerpitur.
+
+Ttt 2 DEFPe'
+

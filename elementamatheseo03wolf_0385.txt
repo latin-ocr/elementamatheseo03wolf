@@ -1,0 +1,107 @@
+Cap.II. DE TRIANGULIS SPHAERICIS.
+
+DEMoNsTRATIO.
+
+¹ Si AB δε AC quadrante majora2erunt
+
+fimul Semicirculo majora , adeoque An-
+
+2guli B δε C firnul duobus retffis majo-
+res (§.69 )‚· consequenter tam B , quam
+C teoto major ( §. 5 9 ), hoc est, obtusus,
+Qud erat unum.
+
+Si ΑΒ & AC quadrante minora,erunt
+fimul semicirculo minora, adeoque An-
+'guli B ὃς C fimul duobus redtis mino-
+'tes (§.69); consequenter tam B, quam
+C recito minor (§.59) ‚ hoc est, acutus,
+Quod erat alterum.
+“’ Conversum Theorema fimili prorsus
+qmodo demonstratur. Si enim Triangu-
+ματη aequicrurum , anguli B & C sunt
+‘izquales (§.59)1 adeoque fimul sumti
+r iuobus redtis majoreS‚ fi uterque obtu-
+'us ‚ & ex adverso duobus τεθεὶς mino-
+}'e⁵> fi uterque acutus. Ergo in priori
+j &asu latera AB ὃ( AC fimul Semicircu-
+’·, o majora ‚ in posteriori minora( §.70);
+'onsequenter tam AB ‚ quam Acin
+²9 »riori quadrante majm, in posteriori
+,² guadrante minus, ξε. d.
+
+'Tamum XLII.
+
+ς 75. Sz· in Triangulo Sphaerico reflan-
+&rulo angulo reth B adjacens latur BC
+aufrit quadrans ‚ erit Angulus A rec'Juss
+‘BE quadrante majus ‚ Angulus A ob-
+usta-3 si denique BD quadrante minus,
+sngulm A acutus.
+
+DEMoNSTRA'rIO.
+
+Εἰ Quia CB ipsi BA ad Angulos restos
+iffbtfistin Ciu-ulus, cujus Arcus CB , per
+ukzolum ejus transit ad quem BA perti-
+‚J'ret(§‚23 ). Est vero BC quadrans per
+
+ 
+
+ 
+   
+   
+  
+   
+
+307
+hypoth. Ergo in C est Polus ipsius BA Tab.1.
+(§.25 ). Cum adeo CA itEdem per Po- 1⁷52}stss
+lum ipfius BA transeat (§.27): erit A
+Angulus teitus (§.28). Qaeod erat unum·
+
+Jam fi BD quadrante minusssss vero
+quadrante majus, in casu priore AD in- .
+ter Β & C‚in posteriore ΑΕ ultra C ca-
+dit2 adeoque in illo Angqus BAD reca
+to BAC minor, in hoc major est (§.
+84, Arithm.); hoc est, in illo acutus, in
+hoc obtusus, Quod erat alterum.
+
+THeoREMX XLIII.
+
+76. Si in Trianguso Sphaerico AB&
+ad B reltangulo singulus A fuerit obtu-
+fiaesJerit latus ipſs opposttum ΕΒ quadran-
+te majus : fi vero in triangulo ABD ad
+B reltangulo Angnlus A fuerit acutus,
+erit latus ipst oppositum BD quadrante
+
+minus.
+DEMoNSTRATIO.
+
+Si enirn latus ΒΕ effer vel quadram,
+vel quadrante minus ³ Angulus A esset
+in priori casu redtus , in altero acutus
+(§.75 ). Sed per hypothqfin obtusus est:
+ergo BE nec quadrans est , nec qua-
+drante minus, consequenter quadrante
+
+majus. Qud erat unum.
+Eodem modo ostenditur, fi A fuerit
+
+Angqus acutuS‚ fore BD quadrante mi-
+nus. Qud erat alterum.
+
+THEOREMA XLIV.
+
+77. Si in Fiangnlo §pharim ΑΒΕ {³¹⁸1}
+ad B reHangulo utrumque crus AB ὠ ἐξὲξ]
+BCfuerit vel quadrante minus , vel
+quadrante majam Iffypothenufh AC trit
+quadrante minor.
+
+Qq 2 D ε-
+
+ 
+

@@ -1,0 +1,119 @@
+11'6 ELEMENTA OPTICAE.
+
+ψ partis dimidiae illuminatae ultra quadran-
+tem.
+
+Q'uonIam vero in Triangulo GFM
+ad F Redtangulo (§.230. Geom.) datur
+latus PG differentia semidiametrorum
+IM ὃς CG, itemque GM distantia cen-
+trorum G ὃς Μς angulus M inveniri
+potest (5. 38, Trigon )‚ cujus mensura
+est arcus defideratus KL.
+
+Dato vero angulo FMG datur etiam
+PCM (§. 241. Geom.)‚ cujus mensura
+est arcus CE , qui dimidiam partem il-
+
+luminantem Sphaerae Luminosae mani-
+festat⁰
+
+E. gr. Juxta Rmcmrum (a) Diameter
+Telluris ad Diametrum Solis ut 1 ad 33 ,
+nempe 1M= 1 & CG Ξ 33 ‚ adeoque
+FG=32; distantia Solis a Tellure GM
+
+:73oo‚ Qare
+Log.GM 38633229
+Log.fin. tot. 100000000
+Log..1³G 15o5r500
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Log. Sin. tot. 7 64 1 8 2 7 1‚cui in ca·
+none finuum artificialium respondent 15'.
+
+Est ergo 1K= 900 15'‚ consequenter
+,ΙΚΝ 180⁰ 30'. Porro CGM :89⁰ 45'‚
+consequenter CED 179⁰ 30'.
+
+Co RoLLARmM.
+
+1 16. Cum =eodem modo inveniatur tam
+arcus IKN , quam CED, siSphaera minor
+IN fuerit Luminosa , major vero AB Opa-
+C23 per Problema praesens etiam determi-
+nat-ur pars Sphaerae majoris ἃ Sphaera mino-
+re illuminata, itemque pars Sphaerae mino-
+ris in majorem radians,
+
+THEOREMA XIII.
+
+117. Si Sphaera Lucc'da major ΑΒ
+proprior fuerit Opaca minori 1N; minor
+illins pars in hanc radiat, hujus tamen
+pars maJor ‘illuminatur ³ quam in lon-
+ginquiori dzstantia.
+
+(a) Athonem. Reform. lib.1.c. 19. syo. b.
+
+DEMoNSTRATIQ
+
+Est enim utGM ad FG, ita linus tol
+tus ad finum excessus partis dimidiae il-
+luminatae ultra quadrantem LK (§.1 15).
+Quamobrem {i GM minuitur, FG exis-
+tente eadem , ratio finus totius ad finum
+arcus LK minor fit (§.203. Arithm.) ς
+consequenter finus arens LK, adeoque
+ipse arcus LK augetur (§.206.Aritl7m.).
+Major ergo Sphaerae Opacae pars illumi-
+natur. Qod erat unum.
+
+Dum vero arcus LK seu angulus
+LMK augetur3 angulus CGE ‚ conse-
+quenter arcus CE necessario minuitur
+(§. 241 . Ceam). Minor adeo Sphaerae
+Lucidae pars in Opacam radiat. Qod
+erat alterum.
+
+THEoREMA XIV.
+
+118. Si Sphaera Lucida minor IN
+majori Opaca AB propior fuerit, major
+ejus pars in eam radiabit, minorem
+tamen huj‘as partem illuminabit.
+
+DEMONSTRATIO.
+
+Eadem est, quae Theorematis prae-
+cedentis,
+
+THEoREMA XV.
+
+1 19. Si obsedi-'um AB radiet per exi· -fabs¹
+guum foramen C in parietem album ipfi figi
+oppofitum ‚ fitque radiatum locus post
+foramen bCa obscurum sttu inverso in
+pariete depingetur.
+
+DEMoNsTRA‘sto.
+
+Qia enim foramen C valde exi-
+guum ‚ Radii a pundto Β dimanantes
+parietem in b contingunt5 qui vero ὲ
+ρυηᾶῐε Α & D emanant, in parietis
+
+punxfta a ὅ( d incidunt. Quare αξη
+· Ra ii
+

@@ -1,0 +1,133 @@
+cap.111.1>fi UMBRA. 27
+
+erit EA: 188.5o :100 = 94'. Quare fi ad-
+datur ΕΒ 52} pedum 3 prodibit AB = 99}
+
+DEMONSTRATIQ
+
+Quoniam EC ipfi BF parallela‚ per
+hypoth.erit BF: BA=CE2EA (§.268.
+Geom.). Est vero etiam BF: ΒΑ , ut
+Umbra resta a filo reseeffl ad latus
+quadrati (§.172). Ergo ut Umbra rec-
+ta a filo resecta ad latus quadrati, ita
+
+EC ad EA (§.167.Arithm.). Qod erat
+
+unum.
+Porro latus quadrati est ad partem
+
+Umbrae versae a filo resec‘tammt Um-
+
+bra recta ad altitudinem ΑΒ ( 5472). l
+
+Ergo etiam ut (ΞΕ ad EA , per demonfi
+
+trata. Qod erat alterum.
+CoRoLLARIUM.
+
+175. Quodsi ergo filum in diagonalem
+quadrati cadit ; erit EC = EA , seu altitu·
+do Objeffi, demta altitudine Oculi, est disl-
+tantiae ab Objesto aequalis.
+
+PROBLEMA XI.
+
+ab· 176. Metiri altitudinem inacceffam
+
+ΙΙ.
+
+bram versam.
+
+storumo.
+
+Ι. Eligantur duae stationes in D δε H j
+
+investigeturque distantia DH vel
+CG (§.126. Ceam).
+
+2.0bservetur‚ ut in Problemate praece- g
+dente , quamnam partem Umbrae ¹
+
+vel redtae, vel versae in quadrato
+Geometrico filum resecet.
+3. Quodsi filum in utraque statione
+Umbram restam secet, Qinferatur.
+Ut differentia Umbrarum rectarum
+in utraque statione defignatarum
+ad latus quadrati5 ¹
+
+ 
+
+g 30- per Umbram restam , itemque per Um- ,
+
+ 
+
+ 
+
+ 
+
+ita distantia stationum GC
+ad altitudinem EA.
+
+4. Si filum in utraque statione Umbram
+versam secet, inferatur:
+
+Ut differentia Umbrarum versatum
+in utraque statione designatarum
+
+ad Umbram versam minorem5
+
+ita distantia stationum GC
+
+ad intervallum GE.
+
+Qo dam, ope Umbrae versae in G re-
+pertae, altitudinem EA invenies ut
+in Problemate praecedente.
+
+ς. Si denique filum in prima statione
+G secetUmbram redtam , in altera
+C Umbram versarn5 inferatur:
+
+Ut differentia faCti ex Umbra reeta
+in versam a Qadrato lateris Qa-
+drati
+
+ad fastum ex latere Qadrati in
+Umbram versan15
+
+Ita distantia stationum GC
+ad altitudinem quaefitam ΑΕ.
+
+Ε. gr. Sit in casu primo distantia statio-
+
+num GC: 25, Umbra reeta in G 20, in
+C 353eritEA= 25.100: (35- 20).·=: 1663,
+
+Sit in casu secundo distantia stationum
+
+GC: 200, Umbra versa in G 66 ‚ in C
+vero 33 ; erit EG33. 200: 33: 200. Un-
+de per Problema praecedens reperitur
+1 EA: 66. 200: 100: 132.
+
+Sit in casu tertio distantia stationum
+
+GC: 150, Umbra ree'ta in G: 88, Um-
+bra versa 1'n C: 60: EA: 100. 60. 150
+
+·:(10000 —6o.88)= ¹90 {gseu fere 191.
+
+DEMONSTRATIO
+
+'⁸ Est enim ut Umbra tedia in G ad
+
+latus quadrati, ita EG ad EA, δε ut
+Umbra recia inC ad latus quadrati‚ ita ,
+
+CE ad EA (§.174)›· adeoque Umbra
+recta in G ad Umbram restam in C,
+
+D2 ut
+

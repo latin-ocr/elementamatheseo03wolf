@@ -1,0 +1,109 @@
+'42 ELEMENTA OPTICAE.
+
+EAD (§. 189. Geom.)‚ consequenter distantia est media proportionalis inter
+
+ΒΑΕ semitecto major. Eodem modo
+cum ostendatur, else FAE semirefito
+majorem fi Oculus DAF Objestum
+integrum DF uno obtutu comprehen-
+dit, non intra ambitum Anguli recti
+continentur , quoe uno obtutu compre-
+henduntur: quod cum fit absurdum
+(§. 236), ut partem tantum objeeti
+videat Oculus in A opus est. Qod erat
+
+unum.
+
+Spatia , quae amplitudinem Visus de-
+finiunt, sunt ut distantiae(§.222). Qua-
+re fi distantia ΑΕ ad DE minorem ha„
+buerit rationem , adeoque minuitur
+(§. 203. Arithm.); pars quoque visa
+
+. minor fieri debet. Qod erat alterum.
+
+lsai),
+I V.
+
+fig.
+540.
+
+COROLLARIUM.
+
+239. Qo propius itaque ad Obje6³mm
+accedis, eo minorem ejus partem uno ob-
+tutu comprehendis-
+
+THEOREMA XXXIX.
+
+240. St altitudo Oculi non fuerit di·
+midiae Objeth· magnitudini aeqitalt's , ὠ
+fi perpendiculum DC ex Oculo in mag·
+nitudinem AB, ultra quam is uno obtu-
+ttt nil amplius comprehendit , demiffitm
+ipfiam inaequaliter secet3 erit di antia
+inter figmenta AD (5⁷⁰ DB media pro„
+portionalis ὠ contra.
+
+DEMONSTRATIO.
+
+Si AB spatium definit , quod uno>
+obtutu Visus comprehendit; erit Angu-
+lus ΑΕΒ restus (ἕλῃ). Quare fi per—
+pendiculum ex Oculo C in AB demitta-
+tur 5erit Dss :DC-——DczDA (§.327.
+(ἴσους.) Est vero DC distantia objecti
+ab Oculo (§0.225.·Geom, > Ergo haec
+
+segmenta AD δέ DB. Qod erat unum.
+
+Qodfi fuerit distantia DC media
+proportionalis inter Dss & DA 3 erit
+Dss: DC=DC: DA. Qoniam vero
+DC est distantia per hypoth. ad AB per-
+pendicularis est (§,22 5 ‚Geom.),adeoque
+Anguliad Daequales sunt (§.7<).Geom.)‚
+consequenter etiam ατε-ε u ( §. 183.
+Ceam). Est vero o÷x= 900 (§.241.
+Geom. ). Ergo etiam u -1- xz: 90⁰
+
+(§.87. Aritbm.) Ultra magnitudinem ’
+
+igitur AB, Visus nihil amplius compre-
+hendit (§.2 35). Qod erat alterum.
+
+PROBLEMA XX.
+
+241. Data distantia Objetsli AB2'
+quod amplitudinem Vtstts definit, ab Ocu-
+lo C. una cnm magnitudine illius Obsec-
+ti AB3 invenire segmenta AD ὠ DB,
+in quae d dstantia DC stcatur.
+
+R E s o 1. U T 1 o.
+
+Qoniam DE: DC== DC: DA(§‘0
+240); non alia re opus est, quam ut
+distantiae Objceci DC inveniantur reci-
+
+procae DB δέ DA (§. 262- Anal.fln.).
+PROBLEMA XXL
+
+242. Data altitudine objecti AB ἀ Ἰ
+altitudine Oculi DB; invenire di an· Ῑ,
+tiam DC, ad quam Oculus postem Ob· ἐ
+
+jeb't'ttm integrum > nec quicquam amplius·
+
+uno obtutu. comprehendit.
+R E s o L u T 1 o.
+
+Quoniam DA est differentia inter al·-
+titudinem Oculi & magnitudinem Ob..
+jeai: inter hanc differentiam & altitu-
+dinem Oculi quaerenda est media pro-
+
+. pomonam, quae erit distantia quaesit&
+
+DC (§·24o)0
+

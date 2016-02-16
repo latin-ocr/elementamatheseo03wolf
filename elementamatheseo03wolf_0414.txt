@@ -1,0 +1,131 @@
+Tab Π.
+Fig.28.
+
+Tafflt.
+Hg.20.
+
+336
+
+PROBLEMA XXIX.
+
+167. Datis in Triahgulo Spbaerico
+obliquangulo ABC duabus angulis· A 43ο
+20' ἅθ’ C 82⁰ 34¹ 6⁰, una cum latere
+BA uni eorum oppostto 66⁰ 45¹5 inve-
+nire angulum reliquum.
+
+Res oLuTIO.
+
+1. Ex angulo quaefito B demiss'o per-
+pendiculo BE , in Triangulo recTtan—
+gulo ΑΕΒ, ex datis angulo A & Hy-
+pothenusa BA, invenitur angulus
+ABE (§. 130).
+
+2. onniam perpendiculo ΕΒ pro parte
+laterali affumt0‚ in Triangulo ECB
+pars media cst angulus C, sejuncta
+angulus CBE & in Triangulo ΑΕΒ
+pars media angulus A, sejuncta an-
+gulus ABE (§.94); Sinus anguli
+EBC habetur, fi ex summa Cosmus
+C δέ Sinus ABE subtrahatur Cofi-
+nus A (§.139).
+
+3. Quodfi ABE &EBC addantur (aut,
+perpendiculo extra Triangulum ca-
+dente, a se invicem subtrahantur);
+prodibit angulus ΑΒΕ quaefitus.
+
+Exemplum Problematis praecedentis facile
+mutatur in Casumpraesentem. ’
+
+ΡκοΒιΕΜΑ ΧΧΧ.
+
+168. Datis in Triangulo Sphaerico
+obssiquangulo tribus lateribm3 invenire
+
+Α angulum uni eorum oppositum. ,
+
+RsssoLu‘rto.
+
+Ι. Si latus unum AC fuerit quadram,
+&crus ΑΒ quadrante minus , quae-
+
+raturque angulus A; ,
+J. Continuetur ΑΒ in F, donec AF fiat
+
+quadranti aequalis ὃ( ex Polo A du·-
+
+ELEMENTA SPHAERICORUM. l
+
+catur arcus CF (.§· 25 ), qui *ar-
+cum AF secabit in F ad angulos
+reo‘cos (§.28 ). ,
+
+2. Qioniam in Triangulo CBF ad F rec. ‘
+tangulo , datur Hypothenusa BC}¹
+& latus BF seu complementum ,
+
+⁴ ipfius ΑΒ ad quadrantem, repe-t.
+rietur perpendiculum CF (SA 19 ).
+quod cum fit mensura anguli CAB2
+( §.31), eundem repertum effe³¹
+patet.
+
+ 
+
+Si e. gr. AB = 67⁰, BC = 49⁰3 erit Cofinusi
+BC cum Sinu toto Sinibus complemento-1
+rum BF δι (F, hoc est, Sinui AB δι (ΣοΙῑηιιί-4
+
+CF seu anguli A aequalis, (§. 112)'adeo· ἐς
+que
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sin. tot. · 100000000
+
+Cofin. BC 98 169429
+
+Suniina 198139429 ⁹ ⁸
+..Q—A} —99—§ff0261
+
+Cofin A 98529168, cui iu
+
+Tabulis quam proxime respondent 45⁰ 32
+27' 22''. Est adeo A 44032' 38⁰.
+
+-ΙΙ, Si latus unum AC fuerit quadrans, ι
+
+alterum ΑΒ quadrante majus, quae-
+raturque denuo angulus A5
+
+Ι. Ex AB resecetur quadrans AD &ex ε
+Polo A describatur arcus CD ( §.·
+25 ), qui arcum AB secabit in D ad
+angulos re&os (ς. 28).
+
+2. Qoniam in Triangulo CDB ad D
+restangulo Hypothenusa BC &latus
+DB seu excessus lateris AB supra
+quadrantem datur, reperietur ut an-¹
+te perpendiculum CD (ς. 119),
+quod est mensura anguli quaefiti A
+
+(§.31).
+
+Si e. gr. AB = 158⁰, BC = 78⁰, erit ΒΒ
+2:68⁰, adeoque (5. 112) Cofinus BC·
+
+cum Sinu toto aequalis sinibus complemeg
+totu
+

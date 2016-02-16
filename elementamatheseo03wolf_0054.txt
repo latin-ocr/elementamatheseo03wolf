@@ -1,0 +1,124 @@
+,40
+
+fig..
+3 6.
+
+Tab.·
+11 Ι.
+Fig.
+37·
+
+Regula. 1. Qlaeratur ad differentiam ma-
+
+gnitudinum datarum BC, & DE,rnagnitudi- '
+
+nem minorem BC , & fabium ex altitudine
+DB , in qua constitui debet Objefium DE,
+in compositam BE ex eadem altitudine DB
+
+& altitudine Objeffi elevandi DE, numerus
+quartus proportionalis.
+
+2. Ex hoc extrahatur Radix, quae erit dis-
+tantia quaefita BA.
+
+E.gr.fitDE: 18,DB: 11, Bc: 63
+erit BE: 29,& BE. Dss: 319. Unde re-
+
+peritur AB2: 6. 319 ε 12 Ξ 159. Qagno-
+brem AB: 12.
+
+THeoREM Α, XXXIII.
+
+227. Si Oculus O intra parallelas
+AB (ῥ’ CD ponatur , parallelae verstaes pla-
+
+gam ipſs oppqfitam convergere videntur.
+
+DEMONSTRATIO.
+
+Qoniam AB ipfi CD parallela per
+
+hypoth. erit ,ΡΗ = ssD ( §- 226.Geom.).
+Cum igitur FE δε BD Oculo directe op-
+
+ponantur5 intervallum BD minus appa—
+rere debet viciniori ΡΗ (521 1).Eodem
+modo ostenditur, intervallum quodlibet
+ulterius minus apparere debere ipso BD
+&ita porr0. Distantiae itaque rectarum
+AB & CD continuo minui, consequen-
+ter versus plagam Oculo oppofitam pa-
+rallelae AB & CD convergere videntur
+(§.84· Geom.) Qe. d. “
+
+CORoLLARIUM
+
+228. Quodsi tanta fuerit longitudo pa-
+rallelarum AB δε CD, ut distantia earum
+a se 1nv1cem Oculo inO pofito instar Punffl
+appareat (§. 215); parallelae coire videbun-
+turin illo Pund³t0‚ibique visus terminabitur.
+
+THEoREM A XXXIV.
+229. Subtensa AB in omnibus punc-
+tis D ³ C, E , ἅτ. arcus figmenti ACB
+
+ELEMENTA OPTICAE.
+
+aequalis apparet3 Diameter vero GD in
+
+singulis Peripheriae punHis.
+
+DEMoNSTRATIO.
+
+Quoniam enim Anguli Am, ACB,
+ΑΕΒ &coaequales sunt (5.2 Ι 5. Geom.);
+subtensa AB in punc‘iis D, C, Ε, &c.
+videtur sub eodem Angulo. AEqualis
+itaque in singulis istis punffis apparet
+(§. 209 ). Qod erat unum.
+
+Quodfi ab extremitatibus Diametri D
+ὃς G ad quodcunque Peripheriae punc-
+tum Efficias DE & EG ducas; Angu-
+lus E semper erit rectus (§. 317. Geom.).
+Diameter adeo Circuli in fingulis Peri-
+pheriae punctis sub aequali Angulo vide-
+tur (l§.145.Geem.), consequenter aequa-
+lis apparet (S. 209). Quod erat alterum.
+
+COROLLAR1UM Ι.
+
+2 30.OptimaxigiturTheatrorum figura est
+segmentum Circuli‚ in quo subtensa Aetori-
+bus ‚ arcus Spectatoribus locum concedit.
+
+ScHoLION.
+
+2 3 1. Non jam urgeo, quod haec figura etiam
+fit restilinearum eodem ambitu comprehenfh-
+rum capaciffima.
+
+CoaoLLARmM II.
+
+232 Quodsi ergo Oculus moveatur in
+Peripheria satis magna, per longinquum
+intervallum ad Obiectum aliquod AB acce·-
+dere , vel ab eo recedere poterit, ut tamen
+magnitudo ejus semper videatur eadem.
+
+THEoREMA XXXV.
+
+233. Si Oculus faerit immotus in A,
+reeJa autem BC ita moveatur, ut extre-
+mitates stmper cadant in Peripheriam ‚·
+ejusdem cozgstamer magnitudinis appa-
+rebit-
+
+De-
+
+Ta
+Ι I
+1⁷1
+

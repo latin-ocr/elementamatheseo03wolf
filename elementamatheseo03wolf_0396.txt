@@ -1,0 +1,100 @@
+318. ELEMENT‘A‘ SPHAERICORUMs-
+
+PROBLEMA L
+114. Datis in Triangulo rel'l‘angulo
+Sphaertco ‚ prater angulum redum , dua-
+bus partibus quibufiunque , invenire re-
+liquarum quamlibet.
+
+Βεεοιυτῐο.
+
+TabJL I. Per Regulas vulgares.
+Figu. 1. Ante omnia expendatur , utrum pat-
+tes , quae in quaestionem veniunt,fint
+
+crura AB δε AC pro angulo uni eo-:
+rum opposito C dentur3 Analogia
+Tbeorematis 58 ( §. 105) utendum
+est, inferendo nempe:
+Ut Sinus AB
+ad Sinum totumi
+ita Tangens AB
+ad Tangentem G. „ Δ
+ς. Si vero in numero partium conjunc-³
+tarum Hypothenusa fuerit ‚ veluti fi.
+
+sejundtae , an conjunftae (§.94,96).
+
+, 2. Si partes sejuncftae nbi mutuo oppo-
+
+nantur, veluti fi Hypothenusa ssC
+curn angulo C pro crure opposito
+ΑΒ detur ‚ utendum est Analogia
+Theorematis 56 (§.98 ), inferendo
+nempe :
+
+ut Sinus totus
+
+ad Sinum Hypothenusae B‚C;
+Ita Sinus anguli C
+
+ad Sinum cruris oppositi ΑΒ.
+
+3. Si vero partes sejundtae fibi mutuo
+- non opponantur, veluti si AB cum
+
+angulo adjacenteB‚pro angulo op—
+polito C , detur, latera trianguli
+continuanda sunt versus partem al-
+terutram, donec fiant quadrante8‚
+ut obtineatur novum Triangulum,
+in quo partes , quae in quaestionem
+veniunt, fibi mutuo opponuntur,
+veluti in nostro casu Triangulum
+EBF, in quo datur BF, cruris ΑΒ
+complementum , ὅ( angulus B, pro
+EF complemento anguli C (§. 90.
+91 >. Infettut adeo ut ante:
+Ut Sinus totus
+
+Hypothenusa BC cum anguloC pto
+latere adjacente AC detut‚· la-
+tera Trianguli versus partem alte-
+utram continuanda sunt2donec fiant
+quadrante8‚ ut novum obtineatur
+Triangulum, in quo Hypothenusa
+inter partes ‚ quae in quaestionem
+veniunt 2 non comparet ‚ e. gr. in
+nossro casu Triangulum EBF ‚ in
+quo ΕΒ complementum Hypothe-
+nusae BCAEF complementum anguli
+C &angulusF complementum cru.
+ris AC (§. 90. 91 ). Cum adeo in
+Triangulo EFB Hypothenusa in
+quaestionem non veniat , inferen-
+dum ut ante .- ’
+
+Ut Sinus EF , seu Cofinus C s
+
+ad Sinum totum3
+Ita Tangens EB,seu Cotangens Bc
+
+ad Tangentem F,seu Corangentem AG.
+6. Qtando Trianguli latera producen-
+
+da, perinde est, in quamcunque
+partem ea produxeris ‚ fi nullus
+angulus acutus in quaestionem ve*-
+niat: quodsi unus quaestionem inv-²
+
+ad Sinum BEseu Cofinum AB‚· -
+
+greditur ‚ latera continuantur per »ι
+ita Sinus anguli B
+
+angulum obliquum alterum: quodfi ’π’
+ad Sinum EF, seu Colinum C. uterque fit in nexu , per eum con· ἑ(
+
+[4. Si inter partes conjune-tas Hypothe· tinuantut, qui lateri, quod est in ν
+nusa non reperiat locum, veluti fi quaes: .
+

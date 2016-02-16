@@ -1,0 +1,120 @@
+304
+
+Tab. Ι. ADF rotari circa Axem AF , donec
+53³5· arcus AD ipfi AB congruat (§. 57 ) ‚
+
+Tab. 1.
+fig. 14.
+
+reeta ΕΙ) ipfi ΕΒ congruet, adeoque
+aequalis erit. Sed ΒΕ ÷EC> BC (§. 190.
+Gema). Ergo DC> BC (5 89.Arith.)5
+consequenter arcus DAC ‚ hoc est, duo
+arcus ΑΒ & AC fimul sumti sunt arcu
+BC majores (§.301.Geom.) ξε. d.
+
+THeoREMA XXX.
+
+63 . ln omni Triangulo Sphaerico ΑΒΕ, ’
+tria 'latera junc‘lim fianta ΑΒ , BC &⁹
+CA stmt Peripheria Circuli maximi mi-
+nora.
+
+DEMoNSTRATJQ
+Continuentur latera AB & AC, do-
+
+nec coeant ¹in D , erunt ABD δε ACD
+Semi periphe1·iaeCirculorutn maximorum
+(§.2o). Sed 313÷CD>BC (§.62)‚ f ’
+seu BC<BD÷CD÷ ergo BA÷AC
+÷BC <ABD÷ACD (ἓ. 90. Arithm.)
+hoc est, tria latera fimul sumta Peri-
+pheria Circuli 'maximi minora sunt.
+
+„Qa d.
+
+THEoREMA XXXL
+
+64Jn omni Triangulo sphaerico ΑΒΕ, Α
+majori angulo ABG opponitur majus
+latus AC, minori A latus minus BC,
+
+&contr-a.
+DEMoNsTRANo.
+
+Qoniam angulus ABG> A per shy.
+poth. Si fiat o=x (§. 20. Aritbm.)':
+erit F», :FB (§.59)‚ adeoque PB÷FC
+:tzAC ( §. 80. Arithm.) Est vero
+FB÷FC> BC (§.62): ergo AC> BC
+(§. 89. Arithm.). Qod erat uuum.
+
+Sit jam AC> BC :aut erit A===B ‚
+aut A>B„ aut A<B. Si A=B‚ erit
+ACzssC (§.59) & fi A>B‚ erit
+BC> AC2-per demonstrata. Sed utrum-
+
+*ELEMENTA SPHAERICORUM.
+que est contra Hypothefin : ergoA <E
+
+Qod erat alterum.
+THEOREMA XXXII.
+
+65. Si in Triangulo Sphaerico ΒΑΕ
+crura ΑΒ &¹ BC fuermt stmul simtu
+semicirculo aequalia .· Bast AC continua-
+ta in D ‚ erit angulus externus BCD
+interno oppostto ΒΑΕ aqualis.
+
+DEMONSTRATIQ
+
+'Continucntur latera AB δε AC do·
+nec fibi mutuo occurant in D: erit ABE
+Semicirculus (§.20),· consequenter cun
+AB νει BC fit itidem Semicirculus‚per hy
+hypoth. AB ›1‹ BC = ΑΒ 4« BD ‚ adeoque
+BC=BD (§.91. Arhhm.) Cum ade«
+fit angulus BCD==D (§.59) & A :I
+( §.32 ) ς erit etiam BCD-e: A (§. 87*
+Avrithm. )⁷. ξε. d.
+
+THEOREM A XXXIII.
+
+66. Si in Triangulo Sphaerico ΒΑ(
+duo crura AB &BC fimulfitmtafiterin
+Semicirculo minora : angulus externu-
+BCD major erit interno opposito A.
+
+DEMoNSTRATIQ
+
+    
+  
+    
+    
+  
+  
+  
+   
+
+Continuentur latera AB & AC, do
+‘nec fibi mutuo· occurrant in D·3
+ABD Semicirculus ‘(§.20) ς conseque >
+ter cum AB÷BC fit semicirculo mi*-
+nor‚ per hypoth. AB÷BC <AB-1⁴31]
+adeoque BC <BD ( §- 92.'Arithm.]
+Cum adeo fit angulus BCD> D (§·64
+ὃ( D: A (§.3 2)·; erit etiam BCD>1
+(§.78.Arithm.). Qud. . 2 .
+
+ΤΗ EoREM A XXXIV.
+
+67. Si in Triangulo Spbaerico ΒΑΩ ι
+
+duo crura AB ὠ· BC fimul stcmta fu‘f·
+
+rint semicirculo majora ‚- angulus exten
+
+nus BCD minor erit interno opposttssf-‘.
+
+mi
+

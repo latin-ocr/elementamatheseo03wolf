@@ -1,0 +1,110 @@
+180
+
+inclinationis x §cy Sinus ad Sinus An-
+'gulorum refractorum m ἃ n eandem
+rationem habent (§. 26), Sinus etiam
+Angelorum m δε n (§ 177. Arithm.),
+‘consequenter ipfi Anguli refracti m δε n
+(§.2. Trtgon.) adeoque ἃ Anguli s & ν
+(5. 145 Geom. ὃ( §.91.Ar2thm.)a⁹qua-
+les. Raclii igitur refracti BE & DF pa-
+ralleli sunt (5. 25 5. Geom.) Qod erat
+alterum.
+CoaoLLARIUM.
+
+50· Qodfi igitur Vitrum utrinque Pla-
+num Soli dire&e objiciatur3 Lumen per
+ipsum transiens perinde propagatur , ac fi
+Vitrum abesset ( §. 93. Optic.): si oblique
+obvertatur, Lumem tamen refractum ejus-
+dem manet intenlitatis (9⁶. 86. Optio).
+
+LEMMA Ι.
+
+ς 1. Cosecantes Angulorum a qui men-
+fitram trium graduum non excedunt , ἃ
+Catangentibus in centesimis Radit non
+dff’runt : Coſscantes vero eorum , quo·
+rum mensura gradibus quinque major nan
+est , cum Catangentibus in decianis Radii
+conventum.
+
+DEMoNsTRATJO.
+
+, Etenim, vi Canonisdifferentia C otan-
+gentium & Cosecantium usque ad gra-
+
+dum tertium in quatuor notis prioribus ·
+
+nulla est. Exprimunt vero quatuor notae
+priores Radii particulas centesimas, nem-
+pe fi Radius est partium 1000, Cotan-
+gens Sinus Anguli trium graduum est
+19081, Cosecans ejusdcm 19087. In
+centesimis igitur Corangentes δε Cose-
+cantes usque ad tertium gradum non
+differunt. Quod erat unum.
+
+ELEMEN‘TA D'I‘O'P'TRICAE.
+
+Tab,1‚ x δε y aequales (§.145.Ge0m.& §. 91.
+Fig.6. Arithm.) Qioniam igitur Angulorum
+
+Sim-ili prorsus modo ostenditur, Co·
+'tangentium & Cosecantium differentiam--
+nullarn effe in decimis Radii usque ad
+gradum quintum. Qod erat alterum.
+
+    
+    
+   
+   
+
+CouoLLARIUM.
+
+52· Qodfi itaque decima vel centesima
+pars Radii in dato aliquo casu adeo exi-
+gua fuerit , ut vel plane non , vel aegre ad-
+modum affignari poffit3 Cosecantes Angu-
+lorum in casu priore quinque, in posterio- ἶ
+re tribus gradibus non majorum sunt inter ’
+se ut Cocangentes.
+
+THeoREMA V.
+
+53. Distantia DK Puncst'i rfflac‘Jionis ,
+D d Catheto incidentia? CL est ad difien·
+tiam Panem radiantis CK ἃ staperficie re· g
+fringente , in ratione Sinus Anguli incli- ,ξ
+nationis ad Costnum ipssus. '
+
+DEMoNsTRArla
+
+Quoniam CL ad AB perpendicularis .
+(§.225.Geom.) ‚ δε Axis refratftionis HI ’
+itidem ad AB normalis (§. 10)3 erit HI ‚t
+ipfi CL parallela (§.256.Geom.)‚ con· J
+sequenter KCD Angulo inclinationis Γ·
+CDH aequalis <§.233.Geam.). Sed ᾗ
+ΚΓ) ‘est ad KC in ratione Sinus Anguli g
+inclinationis KCD ad Sinum Anguli .'
+KDC (§.33.Trigoa.). Qare cum KDC ἓ
+fit complementum ipfius KCD ad rec· t
+
+turn (§.241.Geom.); erit KD ad CKin ἶ
+ratione Sinus Anguli inclinationis ad l
+
+Colinum ejusdem ( §. 1 1. Trigon.)
+CoRoLLARNJM Ι.
+
+54. Qoniam Sinus Anguli 5 graduum 2
+ad ejus Cofinum est, ut 8715 ad 996192 ᾗ
+hoc est fere ut 1 ad 1 1‡; quamdiu distantia .‘
+
+Punffl
+
+l
+
+g ι
+l
+

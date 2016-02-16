@@ -1,0 +1,163 @@
+edam, DE Moru COMMU'NI soils,⁴ ,
+
+δοΗοιιοη
+
+’ 217. Hujus Problematis multus est in
+‚Astronomla prai't'ica usus ‚ in Eclipfibus prae-
+fi’rtim Solaribus observandis.
+
+PROBLEMA XIL
+
+218. Data elevatione AEquators's
+AH , una cum loco Solis S ὠ obliquita-
+te Eclipticae G5 invenire ad datum tem-
+pus Pund't'um Eclipticae oriens M ὥ* An·
+gulam orientis EMH.
+
+RfisoLuTIO.
+
+1·Tempus usque ad meridiem residuum
+convertatur in arcum AEquatoris (S.
+, 212 )‚ ut habeatur arcus AD2con-
+{equenter ejus complementum Do
+,m- Ex loco Solis dato quaeratur ejus
+Asccnfio recta ( §. 204): qua data
+innotescit arcus DG.
+«3. subducatur DG ex DO ‚ relinquetur
+4. Cum in Triangulo GMO praeterea
+ε , dentur anguli MGO ἃ MOG‚quo-
+⁵ rum ille obliquitas Eclipticae ‚ hic
+altitudini AEquatoris A H aequalis
+(§.100);reperietur arcus GM (§.
+3 J 164. Sphaer. )&inde porro angulus
+M ( §.126 Sphaer. ).
+{gnsit Sol in 1709„ elevatio Poli 51⁰ 38‘:
+
+{quaerendum est Ponetuvn Eclipticae M ho-
+
+    
+  
+
+ι
+ἓ.
+l
+
+l> Qoniam adhuc tres horae usque ad me-
+Qidiem supersunt3 erit arcus AD 450 7¹24ll
+?1§.212)‚adeoque DO 440 52‘36''· Ascen-
+ιι ⁴io reeta Solis D est ¹39⁰ 27¹ 38¹¹,adeoque
+· §.J-D (sublata nempe ista ex180) 4003212. 2¹1,
+ἕ 1’,οι]ί“ε(]υειιῑεπ ΒΟ- DG: GO: 40 20'1411.
+
+¹''orro angulus GOM 38⁰ μ’ (§. 100) &
+
+“ Wffii Oper. ,Mathem Tom.111.
+
+gea 9 matutina orienS, cum Angulo orientis. Ι
+
+perpendiculum GN. Qoniam in Trian-
+gulo GNO ad N restangulo datur Hypo·
+thenusa GO cum angulo O; erit
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Log. Sin. tot. 100000000
+Costn. GO 929-87544-
+Summa 199987544
+Cotang. O ¹0¹0¹47E4
+Corang. NGO 989728483*
+
+cui in Tabulis quam proxime respondent
+38Ο ¹7¹ 12¹¹.
+
+Est ergo NGO 51⁰ 42‘ 4811
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SedMGO 23 29 0
+Ergo ΝΟΜ 28 13 48
+PorroCosin.NGM 99450034
+Cot.GO 111199295
+Summa 210649329
+cofin.NGO 97921088
+Cot.GM ——112728241,
+
+cui in Tabulis respondent 86⁰ 56'45‘'·
+Est ergo GM 303'15‘¹ seu Punfftum Eclip.
+
+tieae oriens M 30 3‘ 1 51! :Qu
+
+Denique Sin. totus 100000000
+
+ 
+
+ 
+
+Cofin. GM ——-*99993826
+Summa 199993826
+Corang. ΝΟΜ 102701311
+
+—
+
+ 
+
+ 
+
+Coeang. ΝΜΟ*- 97 2925 1 5,
+cui in Tabulis quam proxime respondent
+28⁰ 1 [14611.
+
+Est ergo Angnlus PunstiEclipticae orien-
+
+tis NMG 610 48‘141'.
+
+Si Pund'tum AEquinoffiale G fuerit
+infra Horizontem, ex DG subtrahitur
+
+'377‘ “
+
+Τεῐὴ
+111.
+fig-2 1.'
+
+Tab. ²
+11 I.
+
+DO, ut habeatur OG: reliqua fiant ut figam
+
+ante.
+
+CoaoLLAnlum.
+
+219. Quodsi ex Puneto Eelipticaef orien-
+te M subtrahantur 900, relinquitur nona-
+gesimus Eclipticae gradus ab Oriente nu-
+meratus.
+
+DEFINITIO LIX.
+
+Ι 20. Nonagesimus vocatur Eclipticae
+adus , nonagesimus a> Panno ejus
+

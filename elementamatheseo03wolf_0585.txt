@@ -1,0 +1,108 @@
+Cap. IV. DE THEORIA PLANETARUM PRIMARIORUM. 499
+
+μβ. δοηοιιοΝ.
+llll· 788. Exemplum non addimunquia Proble-
+†·74· ma evincit-lit cum Probl. 5 . Partis 1. (§.20 3 >.
+
+ῆι· PROBLEMA XXXVI.
+' 789. Dato intervallo 1³8 ‚ una cum
+Ὅ inclinatione PSR3 invenire dstantiam
+curtatam SR.
+R E s o L u T 1 ο.
+’ v 'Intelligatur ex loco Planetae P ad
+’ Planum Eclipticae demissa perpendicu-
+laris PR, in Triangulo adeo RSD ad R
+redtangulo datur angulus PSR & latus
+χ PS; invenitur adeo RS (ἕ 36 vigam),
+· ‚inferendo nempe: Ut Sinus totus seu Ra-
+! dius Circuli Eccentrici ad intervallum
+⁸ PS, ita Colinus Inclinationis RPS ad
+distantiam curtatam RS.
+
+COROLLARJUM.
+
+ζ - ἡ 790. Qroniam differentia inter interval-
+i -lum PS δι distantiam curtatam RS est Curta-
+1, tio (§.772); patet jam modus construendi
+ἵ Tabulas Currationum.
+
+SCHOLION.
+
+1. Ut ST ad RS (vel in planetis inFe- Tab-
+rioribus ut RS ad ST, quia turn VJH·
+RS < ST), ita Sinus totus ad Tan· 5874*
+gentem anguli alhujm, qui 45 gra· n· 1⁰
+dibus rnulStatus vocetur A.
+
+2. Ut Tangens 45 ad Tangentem an-
+guli A modo inventi, ita Tangens
+semisumrnae angulorum R <Sc T ad
+Tangentem semidifferemiae eorun-
+dem: quae in superioribus Planetis
+semisummae angulorum R ὃς T adda-
+tur ‚ in inferioribus dematur , ut ha-
+beatur angulus ad terram RTS.
+
+Hoc autem dat0,invenitur ulterius RST
+
+(5245 Geom. ) δε RT (§. 36 Trigon. ).
+
+DEMONSTRATIO.
+
+Fiat SA=ST=SB ὃς erigatur RD Τὼ,
+:RA ad RA perpendicularis ducantur· VlssI.
+que SF ὅ( ΒΕ ipsi RD parallelae ; erit fig-76³
+ob ARzRD etiam FS=SA &HF ipsi
+ΒΑ parallela= RS (§.268 Geom.),an-
+gulique RDA & ΚΑΙ) Γεωὶι·εέὶῐ (§.24t
+
+791. Qia Inclinationis‚ Redufflonis &¹ G(0m,)313que EF=FA (§.1‘79Geom.}.
+
+Curtationis quantitas ab Argumento latitu-
+dinis pendet ‚ adeoque singulm Tabulae ad Αν-
+, gamenti latitudinis fingulos gradus construun-
+ε tur ‚· ideo KSPLERUS in Rudolphinis Tabu-
+l las inclinationis ‚ redufftionis (ΞΝ curationis
+ῐ :in unam contraxit, cui nemen Tabulae La-
+⁵ titudinariae indidit.
+’ PROBLEMA XXXVII.
+7 ς) 2 . Datis Α egula commutationi: ESR,
+distantia Solis ax Terra TS‚& distantia
+Planctae curtata SR; invenire singulum
+
+elongarem)⁴ R Γς, Parallaxin orbis SRT
+ά distantiam Planetae ἃ Terra TR.
+
+R E s ο L u T 1 o.
+Datis in Triangulo SRT duobus lateri-
+bus RS & ST cum angulo comprehenso
+ΚΒΓ, invenitur angulus RTS inferendo:
+
+ 
+
+ 
+
+Qare cum iit SF: Far-:HR ΡΙ) (§.
+267Geom.);erit etiam SF: Fssss-HF z FD
+(§.168.Ari1hr)& hinc SF : HszssffiD
+
+’ (§.x73 Arith. δ. Est ergo ut SF live TS
+
+ad HF live RS, ita Sinus totus ad Tan-
+gentem anguli DssF <§.40 Trigoffi) Sed
+ob paral ¹elas BG δε FS (§. 250 Geom.)
+GBF semiresto BFS aequalis ( §. 233
+Geom.) : *ergo angulus DBE hoc est RDB
+(Scit.) relinquitur , fi ex DBF per illa-
+larionem primam problematis invento ··
+subtrahitur semiretstus EBF. Quoniam
+itaque ut RA ad RB x h e. ut summa la-
+terum TS 8< RS ad differentiam eorun-
+
+⁵dem RB, ita Tangens semireeti RDA
+
+ad Tangentem refidai anguli RDB ( § 7
+R r r 2 , Τνὲτ
+
+,W'VP' *²⁴
+

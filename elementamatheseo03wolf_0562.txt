@@ -1,0 +1,112 @@
+476
+
+Tab. SKC 3140100.Sed Circuli eccentrici area
+VII. est 3 1415900000 (§.425.429 Geom.): quare
+Fig.68.fi eadem ponatur 3600 seu 12960000, re-
+perietur SKC paulo major 129''‚ hoc est,
+
+quam proxime 2' 10¹). Est igitur Anoma-
+
+lia media 20 2¹ 10¹1, prouti extat in Ru-
+dolphinls.
+
+PROBLEMA XIV.
+
+685. Data Eccentricitate CS , una
+cum Anamalz'a eccentri3 invenire inter·
+vallum SI.
+
+R ε s 0 L U T 1 ό.
+
+Qoniam angulum KCA Anomalia
+Ecccntri ΑΚ metitur (§.58 Geem.); erit
+CL ejusdem Cosmus ζ §. 11 Trigon. >3
+in ultimo quadrante Cl Sinus excess‘us
+supet· 3 quadrantes; in secundo, utpote
+Sinus arcus Dk, Sinus excelsus super
+unum ; & in tertio ‚ utpote Sinus arcus
+Ek Cofinus excessus super duoS.
+
+1.Fiat ut CA ad CL , ita CS ad quarss
+tam proportionalem: quae
+
+2. in primo δε ultimo quadrante adda·
+tut ad CA, in secundo δε tertio in·
+
+lde Iugltrahatur ,ut prodeat interval-
+um .
+
+E. gr. Sit Eccentricitas Solis CS 1800, ano-
+malia ecceutri ΚΑ 20, erit CL 99939‚ con-
+sequenter quarta proportionalis ad CA,
+CL & CS ¹799· Ergo intervallum 81
+¹0¹799 ‚ prout extat in Rudolphinis.
+
+DEMONSTRATto.
+
+Sit enlm AL:x‚ SCr-c, CA:-}a‚
+erit SI in primo ὃς tertio quadrante
+{a ÷c—2cx;a, in secundo & quarto
+{a--c-l— 2cxza (§.434 Analyfimfin.) Est
+veroc-zcxza quarta proportionalis ad
+÷a,÷a—x&c‚hoc est, ad CA, CL δε
+CS: ergo fi ea addatur ad AC in casu
+
+uno, in altero autem iude subtrahatura
+prodlbit SI. „Qaafi
+
+ELEMENTA ASTRONOMIAE.Paers-II.
+
+PROBLEMA XV.
+
+686. Datis Anomalia Eccemri AK, Ἰ
+Eccentrjcitate SC ὠ intervallo Sl 3 in· W
+venire Anomaliam coaequatam ἦν angu- F&
+
+lum ad Solem ISA-
+R Ε s ο L U r 10.
+
+Ι. Si Planeta fuerit in ptimo (vel ulti-
+mo quadrante), in Triangulo ISL
+ad L retstangulo , ex datis intervallo ᾗ
+SI δε SL composita ex Cofinu ano-
+maliae Eccentri ΑΚ in primo & Sinu
+excessus super tres quadrantes in ul-
+timo quadtante‚ atque Eccentrici-
+tate CS , invenitur Anomalia coae-
+quata ISL in primo quadrante (§.40.
+Trzg.) ,vel ejus complementum Ask
+ad Circulum in ultimo quadrante.
+
+E.⁷gr. Sit Eccentricitas Q> SC 1800, Ano·-
+
+maiia eccentri 20, erit SI 10:799 (5685 ),
+
+CL 99939 & hinc SL 101739: reperitur
+
+ISL 1057158ff‘. ⁷
+
+11.Si Anomalia eccentri fuerit quadrans
+AD Eccentricitas SC est latus Trian-
+guli GSC δε angulus GSC reperitur
+ut ante,
+
+111. Si Planeta fuerit in secundo vel ter.
+tio quadrante, e. gr. in k, in Trian-
+gulo iSl ad lrecsstangulo 2 datur in-
+tervallum iS , latus λδ, quod est diss
+ferentia inter Eccentricitatem SC <Sc
+Cofinum [C excelsus Anomaliae ec-
+centri super quadrantem in priore ,Ι
+super semicirculum in posteriore ca- -
+su. Unde angulus [Si reperitur ut
+
+ante.
+CoRoLLARIUM.
+
+687. Quodsi Anomalia media & coae-
+quata a se invicem subtrahantur, relm-
+quetur Assquatlo centri (§ 652). S
+
+CHG2¹
+

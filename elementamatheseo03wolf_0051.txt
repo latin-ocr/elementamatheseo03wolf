@@ -1,0 +1,111 @@
+capu. DE vrstoNE MAGNITUDINJS. 37
+
+PROBLEMA XVI.
+
+l 223. Invenire distantiam ΑΒ , ad
+-4 quam ab Oculo removendum cst Objec-
+’ tum magnitudinis datae CH 2 ut videa-
+,ί tur tanta magnitudinis, quanta appa-
+ξ ’νει ΕΙ in distantia data ΑΕ.
+ᾗ R E s o 1. U T 1 o.
+
+Qoniam ΕΙ : CH == AsszAB (§. 1 2 2)3 ·
+
+datis ΕΙ, ΕΗ ὅ( ΑΕ, reperitur ΑΒ
+*perRegulam trium (§.3o2.Ari2hm.).
+E. gr, quaeritur ‚ ad quam distantiam ab
+Oculo removeri debeat Objeetum 30 pe-
+dum, ut apparet aequale Obiecto 6 pe-
+dum, quod videtur in distantia zo pedum.
+Quoniam ΕΙ = 6‚CH = 30, ΑΕ -·-·. 20:
+erit AB Ξ 20. 30: 6 Ξ 100.
+
+PRoBLEMA XVH.
+
+rab . 224. ‘Inuenire altitudinem BDfitpra
+⁹ lineam Horizontalem BH per Oculum A
+{2⁷3} pofitiane datum dut't'am , in qua elevari
+34, debet Obsecflum datae aliiudinis DE, ut
+tantum appareat quantum Objeetum
+aliud altitudinis stmiliter datae BC in
+
+data distantia Oculi AB.
+Rfisoturro ό* DEMONSTRATIO.
+
+1. Quoniam in Triangulo ΑΒΕ ad B
+rectangulo (§. 225. Geom. ) datur
+distantia Oculi AB& altitudo Ob-
+jeai BC, cui aequalis apparere de-
+bet altitudo objetsti elevandi DE;
+Angulus ΒΑΕ, sub quo in A vide-
+'tur Objedtum BC, reperiri potest
+(§. 40. Trigon.): cui aequalis est
+ΒΑΕ (ὃ. 209 >.
+
+22Concipiatur jam Circulus transiens
+per punita A, D & E, cujus cen-
+trum fit in G ς erit Angulus DGE
+
+’ duplus ‘Anguli DAE modo inventi
+
+(§.313.Geom.). Quare fi ex cen.
+tro G demittatur perpendicularis
+GF‚· erit DF=÷DE & DGF
+=÷1>GE(§. 184.Geom.) Ξ DAE.
+In Triangulo igitur redtangulo DFG
+ad F reetangulo , datis Angulis &
+latere DF , reperiuntur latera ΡΕ
+& ΒΕ (§.36.Trig.).
+
+3. Demittatur ex centro G ad ΒΟ per-
+pendicularis GH: cum etiam sit FB
+ad Bo perpendicularis per hypoth.
+erit GH parallela ipfi ΡΒ (§.256.
+Ceam. ) adeoque perpendiculares
+ΕΡ δε ΒΗ inter GH δε ΡΒ inter-
+cepta: aequales sunt (§.226.Ge0m‚).
+Qare fi ex ΡΕ paulo ante inventa
+subtrahatur distantia Oculi ΒΑ, re-
+linquetur AH.
+
+4. In Triangulo itaque ΑΕΗ ad H rect-
+angulo , datis ΑΗ & AG Ξ DG
+(5.40. Geom.),teperitur GH (§.417.
+Geom. .
+
+ς. Qonia3n denique ipfi ΕΗ aequalis
+est FB per demonstr. fi inde sub-
+trahatur dimidia altitudo Objecsti
+elevandi ΡΙ) ,- relinquetur altitudo
+
+quaefita BD. Q e.f· ὠ d.
+
+E. gr. Sit distantia oculi ΑΒΝ 8: quaera.
+tur altitudo, in qua elevari debeat Obiec-
+
+tum altitudinis 9 pedum3 ut appateat 5
+pedum : erit BC 5 δε DE 9', adeoque DF
+
+4 5⁸. Inferatur ergo 3
+
+Log.'AB ἱ 0.9o3o900
+
+BC 0.6 9 8 9 7 0 0
+
+Sin. tot. 1 ooooo ooo ——
+Tang, ΒΑΘ 9.7 9 5 S 8 00, cui in¹
+Tabulis quarn proxime. respondent 32⁰·
+
+Est igitur Angulus DGF 320..Qare cum
+ad F fit tectus & DF 45⁰ 3 inferatur porrot
+
+Ε 3 Log.
+
+ 
+
+ 
+
+ 
+
+ 
+

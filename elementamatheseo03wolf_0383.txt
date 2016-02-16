@@ -1,0 +1,110 @@
+εφη. DE TRIANGULIS SPHAERICIS.
+
+DEMoNs‘rRAz-m.
+
+continuentur latera AB ὃς AC, do·
+nec ,fibi mutuo occurrant in D, erit
+ABD Semicirculus (§.20); consequen-
+ter cum AB÷BC fit Semicirculo ma-
+jor, per bypz‘tth. AB -Ι- BC> AB -Ι- ΗΒ,
+adeoque BC> BD (§. 92. Arithm. ).
+Cum adeo fit BCD<D (§.64) &
+D=A (§. 32), erit etiam BCD <A
+(§.87.Arithm.). Q. e. d.
+
+THEOREMA XXXV.
+
+³ 68. st· Bafi AC Triangult Sphaerici
+iABC continuatam D fuerit BCD = A,
+'ih-rtem AB ὠ BCfimt Semictrculo aequa-
+ilia ,· fi BCD <A . BA ό· BC Semicir-
+culo majora ἱ fi denique BCD > Αἱ «ΑΒ
+(5¹ BC semicirculo minora.
+
+   
+  
+   
+
+DEMONSTRTIO.
+
+Ι Continuentur latera AB ‚ ὃ( AC ‚
+donec inD coeant5 erit A=D (§.
+“ 32), adeoque cum fit in casu primo
+angulus BCD ipsi A aequalis , in secun-
+1ο eodem minor, in tertio major per
+s‘iypoth. in ,casu primo BCD=D (§.
+ξ 37. Arithm. ). in secundo BCD < D ‚
+{sn tertio BCD > D (§. 64). Quare
+ugrum AB ÷BD fit Semicirculus (§.20)‚
+.³···rit in casu primo AB÷BC Semicir-
+' iulus (§.88.Arithm.) , in secundo AB
+÷÷BC major, in tertio minor Semicir-
+aulo (§.90. Arithm.). Q. e.d.
+
+’ THEOREMA XXXVI.
+
+ἔξζόφ Si in Triangulo Sphaerico ΑΒΕ
+''Q-W latera AB ἐφ’ BC fuerint Semicir-
+fiala aqualia , anguli ad Bafin A (θ’ C
+
+’ἶ ·2·Wolfii Oper.Mathem. Tom. 111.
+
+'305‘
+
+Tab. 1.
+
+fient aequales duobus νεὲῗὶπς si illa Semi· Fig.14.·
+
+circulo majora, lu· duobus rellis majores ‚-
+fi illa Semicirculo ‚ hi duobus nelis eni-2
+nores. ”
+
+DEMoNSTRATIQ
+
+Si AB & BC simul aequantur Semi-
+circu10, erit BCD :A‘(§. 65 ). Sed
+BCD -Ι- BCA = duobus renftx‘s (§.4 3).
+Ergo anguli ad baiin A & C duobus
+rectis aequales (§. 88. Arithm.) Qod
+
+erdt unum. Ξ
+
+Si AB& BC sinnnl sumta Semicirculo
+majora , erir BCD < A (§.67)'s· fi mi-
+nora, BCD> A (§.66). Sed BCD δε
+BCA fimullduobus rectis aquales (§.
+43). Ergo in casu priori A ὃ( Cduobus
+rectis 111aj0re5‚ in posteriori minores (§.
+90. Arithm. ). Qod erat ficundum ὀ·
+
+tertium.
+
+THEoREMA XXXVIL
+
+70. Si in Triangulo sphaerico ABC anss
+guli ad basin A ὠ C duobus rcc‘lis ‹equa-
+les, latera ΑΒ ὠ· BC. fimul sitmta aequa-
+lia sunt semicirculo ‚- st illi duobus rec-
+tis majores , haec semicirculo majora3 si
+
+illi duobus rellis minores, haec Semicir- ,
+
+culo minora.
+
+- Anguli , qui sunt deinceps , BCA δε
+BCD duobus mstis aequales sunt (§.43).
+Quare fi A 8( BCA duobus rectis aequa-
+les ‚ erit A=BCD (§.91.Aritl7m. )‚·
+fi A ὅ( BCA dnobus rectis majores , erit
+A 1> BCDm· minores, A < BCD (§.
+92. Arithm.). Ergo in casu primo latera
+ΑΒ ὅ( BC simul semicirculo aequalia
+sunt , in secundo majora , in tertio mi-
+nora semicirculo (§.68.). Q e.d.
+
+Qq THEO-
+
+ 
+
+ 
+

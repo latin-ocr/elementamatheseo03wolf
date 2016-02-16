@@ -1,0 +1,101 @@
+26 ELEMENTA OPTICAE.
+
+GF ε FE=DC:DE (§. 267. Geom. ).
+Qoniam vero DE perpendicularis ad
+BC per demonstr. ἃ ΑΒ 0ὺᾷεᾶὶὶ altitu-
+do per hypoth. ad eandem BC perpen-
+dicularis (§.227.Geom.) , adeoque DE
+ipsi AB parallela (§· 256. Geom. )3
+DC1DE=BC:AB(§.268.Geom.)‚
+adeoque GF: PE: BC .· AB (§.167.
+Arithm. Quod erat unum.
+Tab. Δ ΙΙ. Concipiamus {imiliter Radium vi-
+111. sualem AF continuari³ donec inCUm-
+Hg.29. bram reikam BC Opaci AB in hoc situ
+instrumenti definiat <Sc filum EG rese-
+care partem Umbrae versae HG. Qio-
+niam angulus H renus est (§.98.Geom.)
+& D itidem restus(§.215. Mech.)‚ ob
+parallelismum vero linearum HI ὃ( EF
+(§. 336. Geom.) oz-——x (§.233.Geam.)3
+erit etiam ατε] (5.246. Geom.) ‚ con-
+sequenter u altitudini Luminofi aequalis
+(§.145.). Qodfi jam EG sumatur pro
+finu toto , erit HG finus (§. 2.Trz'gon.)‚
+HE cosmus (§.11. Trigon.) altitudinis
+Luminofi. Est adeo HG ad HE ut finus
+altitudinis Luminofi ad ejus colinum,-
+consequentet ut Umbra versa ad longitu-
+dinem Opaci (§. 1 66). Quod erat alterum.
+1 1 1. Denique quoniam triangula
+HEG δε DEC fibi mutuo aequiangula
+per demonstr. erit ΕΗ : HG = DC : DE
+(§·276. Geom. ). Et quoniam eodem
+modo, quo mem. 1. patet, effe DC2DE
+= CB : BAserit etiam EH: HG== BC
+:BA ( §. 1 67.Arith.).Qod erat tertium.
+Tertium infertur etiam hoc modo:
+Latus quadrati HE ad partem Umbrae
+versae a filo resed'cae HG , ut altitudo
+Objeesti ad Umbram versam vi num.3.
+Ergo etiam ut Umbra re6³ca ad alti-
+
+tudinem objeeri (§.164). Qe. d.
+
+S c H o L 1 o N.
+17 ζ. Plerumque Qadratum Geometricum gg!
+
+cquadrante conjungunt: quo in casu prce-
+
+terecc opus est regula cum Dioptricis circa
+centrum B mobili.
+
+P R o B L E M A X.
+174. Altitudinem acceffibilem ΑΒ Ta,
+
+tam per Umbram restam, quam verfhm, 11
+metm.
+
+fig:
+RESoLuTto.
+
+Statione in D ad arbitrium eleC'ca ,
+& ejus ab altitudine AB distantia DB
+investigata (§.126. Geom. >Quadratum ς
+Geometricum huc illucque vertatur, do-
+nec per pinnulas collineanti apex alti-
+tudinis A occurrat. Qodfi filum Um·
+bram restam secet, inferatur:
+
+Ut pars Umbrae redtae rese-fta
+
+ad latus quadrati Geometrici‚
+ita distantia stationis DB
+ad partem altitudinis ΑΕ.
+
+Qtodsi vero filum Umbram versam
+secet , inferatur .-
+
+Ut latus quadrati Geometrici
+
+ad partem Umbrae versae resectam,
+ita distantia stationis DB
+ad partem altitudinis ΑΕ.
+
+Cum adeo in utroque casu ΑΕ per re-
+gulam trium inveniri poffit‚ fi ipfi re-
+pertae partem altitudinis BE , hoc est ,
+in planitie Horizontali altitudinem Ocu-
+li tui addass prodibit altitudo quaefita
+integra ΑΒ.
+
+Ε. gr. Sit BD= EC: 363 Umbra refia
+64. Qoniam latus quadrati est 1003
+erit EA Ξ 100. 36 : 64 = 5633 pedum.Qa-
+re fi addatur ΕΒ , quae fit 52} pedum 3 pro-
+
+dibit altitudo AB Ξ 62'.
+
+Sit BD: EC: 188‘, Umbra versa 50}
+ent
+
